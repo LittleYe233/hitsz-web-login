@@ -1,0 +1,7 @@
+#!/data/data/com.termux/files/usr/bin/bash
+
+USERNAME=""
+PASSWORD=""
+IP=""
+
+hitszweblogin ${USERNAME} ${PASSWORD} ${IP}
